@@ -1,0 +1,8 @@
+spring:
+  profiles: test
+
+msaconfig:
+  greeting: "welcome to test server"
+  
+server:
+  url: "http://tm14.gsshop.com/index.gs"
